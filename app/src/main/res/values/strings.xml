@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">FirstAssignment</string>
+    <string-array name="favorite_games">
+        <item>Call of Duty: Mobile</item>
+        <item>PUBG Mobile</item>
+        <item>Free Fire</item>
+        <item>Fortnite</item>
+        <item>Valorant</item>
+        <item>Apex Legends</item>
+        <item>League of Legends: Wild Rift</item>
+        <item>Clash Royale</item>
+        <item>Clash of Clans</item>
+        <item>Mobile Legends: Bang Bang</item>
+        <item>Minecraft</item>
+        <item>Roblox</item>
+        <item>The Sims Mobile</item>
+        <item>Plague Inc.</item>
+        <item>Rise of Kingdoms</item>
+        <item>SimCity BuildIt</item>
+        <item>Asphalt 9: Legends</item>
+        <item>FIFA Mobile</item>
+        <item>Genshin Impact</item>
+        <item>Diablo Immortal</item>
+    </string-array>
+    <string-array name="payment_types">
+        <item>Credit/Debit Card</item>
+        <item>PayPal</item>
+        <item>Apple Pay</item>
+        <item>Google Pay</item>
+        <item>Amazon Pay</item>
+        <item>Skrill</item>
+        <item>Bank Transfer</item>
+        <item>Cryptocurrency</item>
+        <item>Venmo</item>
+        <item>WeChat Pay</item>
+        <item>Alipay</item>
+        <item>Afterpay</item>
+        <item>Klarna</item>
+        <item>Affirm</item>
+        <item>Prepaid Card</item>
+        <item>Steam Wallet</item>
+        <item>PlayStation Network Card</item>
+        <item>Stripe</item>
+        <item>Square</item>
+        <item>Adyen</item>
+    </string-array>
+
+
+</resources>
