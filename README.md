@@ -1,36 +1,60 @@
-LootLink – Mobile Game Store App
-LootLink is a user-friendly Android app that lets you browse and shop for popular mobile games. From Minecraft to Plague Inc.,
-users can explore top-rated titles, view prices and ratings, and add games to a shopping cart with ease.
+# LootLink — Mobile Game Store (Android)
 
-Features
-*Browse a list of mobile games with price, rating, and genre
-*Add games to a cart
-*View and manage the cart
-*Gamer profile screen
-*Top rated games section
-*Contact screen
-*Login screen with shared preferences for session storage
+LootLink is a lightweight Android app for browsing and purchasing popular mobile games.  
+Users can explore top-rated titles, review prices and ratings, and manage a shopping cart with ease.  
+The app demonstrates core **e-commerce functionality** in a gaming context.  
 
-Technologies Used
-*Java (Android)
-*Android Studio
-*XML for UI layout
-*Shared Preferences (used for login functionality)
-*RecyclerView for displaying the game list
+---
 
-How to Run the App
-*Open the project in Android Studio
-*Connect an emulator or Android device
-*Click Run to launch the app
-*Log in, then explore and add games to your cart
+## ✨ Features
+- Browse curated games with **price**, **rating**, and **genre**
+- Add games to a **shopping cart**
+- View and manage cart items
+- Gamer profile screen
+- Top-rated games section
+- Contact screen
+- Login screen with session storage (SharedPreferences)
 
-Future Improvements
-*User registration system
-*Persistent cart using database (e.g., SQLite or Firebase)
-*Payment gateway integration (Google Pay, Stripe, etc.)
-*Game trailers and reviews
-*Search and filter functionality
+---
 
-About
-This app was developed as part of a mobile application development course. It demonstrates basic e-commerce functionality within a gaming context.
+## 🧰 Tech Stack
+- **Language:** Java (Android)  
+- **IDE:** Android Studio  
+- **UI:** XML layouts, Material Components  
+- **Storage:** SharedPreferences (login/session)  
+- **Lists:** RecyclerView  
 
+---
+
+## 📱 Screenshots
+
+<p align="center">
+  <img src="h1.png" alt="Screenshot 1" width="200"/>
+  <img src="h2.png" alt="Screenshot 2" width="200"/>
+  <img src="h3.png" alt="Screenshot 3" width="200"/>
+</p>
+
+<p align="center">
+  <img src="h4.png" alt="Screenshot 4" width="200"/>
+  <img src="h5.png" alt="Screenshot 5" width="200"/>
+  <img src="h6.png" alt="Screenshot 6" width="200"/>
+</p>
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Android Studio (latest stable)  
+- Android SDK 24+  
+- Device or emulator  
+
+### Run
+1. **Clone** this repository and open it in Android Studio  
+2. **Sync Gradle**  
+3. **Run** on an emulator or physical device  
+4. **Login**, then browse games and add them to the cart  
+
+---
+
+## 🗂 Project Structure (high level)
